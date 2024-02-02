@@ -4,7 +4,7 @@
 
 ![pepsi-view](https://github.com/Ali-Mohebbi-Developer/Pepsi-Project/assets/126477170/6c6d58ca-cc0a-4382-be3a-caf625194e0c)
 
-![view final](https://user-images.githubusercontent.com/109727844/204102930-fac80657-4d16-4816-b476-a88e984abefe.jpg)
+![pepsi-view-1](https://github.com/Ali-Mohebbi-Developer/Pepsi-Project/assets/126477170/add15bad-def3-4507-b824-b7d99dad1ab8)
 
 - [Demo Project](https://ali-mohebbi-developer.github.io/Pepsi-Project/)
 
